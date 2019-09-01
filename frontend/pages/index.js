@@ -1,3 +1,3 @@
-const Index = props => <div>Hi, I'm the index page!</div>;
+const Index = props => <div></div>;
 
 export default Index;
